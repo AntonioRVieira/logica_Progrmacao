@@ -14,8 +14,8 @@ import java.util.Scanner;
 
 
 public class EntradaSaida {
-
- public static void main(String[] args) {  
+    public static void main(String[] args) {
+        
      
    //codigo para cadastra o pet
    // variaveis declaradas sem dados
