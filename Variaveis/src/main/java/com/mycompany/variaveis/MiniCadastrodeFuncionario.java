@@ -13,11 +13,16 @@ public class MiniCadastrodeFuncionario {
   
     public static void main(String[] args) {
         
-    //String nome;
-    //int idade;
-   //int salario;
-  //  boolean carteira_assinada;
+    String nome;
+    int idade;
+    int salario;
+   boolean carteira_assinada;
     
+   
+   
+   
+   
+   
    
     
         
