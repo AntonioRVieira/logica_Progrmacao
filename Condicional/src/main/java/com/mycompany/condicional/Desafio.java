@@ -21,7 +21,7 @@ public class Desafio {
    //Scanner
    Scanner entradaTexto = new Scanner (System.in);
    Scanner entradaNumero = new Scanner (System.in);
-   Scanner entradaLogica =  new Scanner (System.in);    
+   Scanner entradaLogica =  new Scanner (System.in);  
         
    
    //Solicitações
