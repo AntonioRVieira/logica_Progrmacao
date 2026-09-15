@@ -12,13 +12,17 @@ import java.util.Scanner;
 public class DesafioSwitchCase {
  
     public static void main(String[] args) {
-        
+   
+        //variaveis
    int numeroProduto, quantidadeProduto;
    double valorTotal;
-           
+    
+   
+ //Scanner
    Scanner entradaNumero = new Scanner(System.in);
    
-   
+ //Solicitar os dados
+ 
         System.out.println("---LANCHONETE---");
         
         System.out.println("Digite sua opcao");   
